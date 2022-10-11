@@ -26,6 +26,8 @@ while self.stillAwake:
   </a>
 </p>
 
-<p href="https://github.com/RoachxD?tab=repositories" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=RoachxD&show_icons=true&theme=tokyonight>
+<p align="center">
+  <a href="https://github.com/RoachxD?tab=repositories">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=RoachxD&show_icons=true&theme=gotham>
+  </a>
 </p>
