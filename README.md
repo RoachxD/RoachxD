@@ -13,26 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-<hr class="solid">
-
-<h2>Day to day</h2>
-
+## Day to day life
 ```python
 while self.stillAwake:
   self.sheeps += 1
 ```
 
-<h2>Skills & Statistics</h2>
-
+## Skills & Statistics
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,github,html,lua,ps,python,ts,visualstudio,vscode" />
   </a>
 </p>
-
-<hr class="solid">
 
 <p href="https://github.com/RoachxD?tab=repositories" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=RoachxD&show_icons=true&theme=tokyonight>
