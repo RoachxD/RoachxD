@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+<hr class="solid">
+
 <h2>Day to day</h2>
 
 ```python
@@ -29,6 +31,8 @@ while self.stillAwake:
     <img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,github,html,lua,ps,python,ts,visualstudio,vscode" />
   </a>
 </p>
+
+<hr class="solid">
 
 <p href="https://github.com/RoachxD?tab=repositories" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=RoachxD&show_icons=true&theme=tokyonight>
